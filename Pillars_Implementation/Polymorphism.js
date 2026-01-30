@@ -1,3 +1,5 @@
+//polymorphism implementation
+
 class Shape {
   draw() {
     console.log("Drawing shape");
