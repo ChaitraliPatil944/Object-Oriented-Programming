@@ -1,3 +1,5 @@
+//encapsulation implementation
+
 class BankAccount {
   #balance = 0;   // private field
 
