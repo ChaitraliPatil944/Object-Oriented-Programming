@@ -1,3 +1,5 @@
+//Inheritance Implementation
+
 class Employee {
   work() {
     console.log("Employee works");
