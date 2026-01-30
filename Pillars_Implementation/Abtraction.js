@@ -1,3 +1,5 @@
+//abstraction implementation
+
 class Vehicle {
   start() {
     throw new Error("start() must be implemented"); // abstract method
