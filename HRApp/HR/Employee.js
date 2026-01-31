@@ -1,3 +1,5 @@
+//parent class
+
 class Employee{
     constructor( id, firstName , lastName , email , contactNumber , location , birthDate )
       {   //abtract class Employee .You cannot create plain Employee
