@@ -1,3 +1,4 @@
+//child class
 const Employee = require("./Employee");
 const IAppraisable = require("./Interfaces/IAppraisable");
 
