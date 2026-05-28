@@ -7,13 +7,13 @@ class Shape {
     virtual void display()=0; // pure virtual function
 
     virtual void show() {
-        cout << "Showing a shape" << endl;
+        cout << "Showing a shape" << endl;  // virtual function with implementation
     }
 };
 
 class Circle: public Shape {
     public:
-    void draw() {
+    void draw() {                                            // overriding the pure virtual function
         cout << "Drawing a circle" << endl;
     }
     void display() {
@@ -22,8 +22,8 @@ class Circle: public Shape {
 };
 
 int main(){
-    Shape* shape = new Circle();
-    shape->draw();
+    Shape* shape = new Circle();   // creating a Circle object but using a Shape pointer
+    shape->draw();                
     shape->display();
     shape->show();
 
