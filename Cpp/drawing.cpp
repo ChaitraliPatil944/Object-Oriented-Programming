@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+namespace Drawing {
 class Shape {
     public: 
     virtual void draw()=0; // pure virtual function
@@ -20,9 +21,10 @@ class Circle: public Shape {
         cout << "Displaying a circle" << endl;
     }
 };
+}
 
 int main(){
-    Shape* shape = new Circle();   // creating a Circle object but using a Shape pointer
+    Drawing::Shape* shape = new Drawing::Circle();   // creating a Circle object but using a Shape pointer
     shape->draw();                
     shape->display();
     shape->show();
