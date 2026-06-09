@@ -1,0 +1,14 @@
+D:\tryout\timepass\LMSSolution\LMSApp\obj\Debug\net10.0\LMSApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\tryout\timepass\LMSSolution\LMSApp\obj\Debug\net10.0\LMSApp.AssemblyInfoInputs.cache
+D:\tryout\timepass\LMSSolution\LMSApp\obj\Debug\net10.0\LMSApp.AssemblyInfo.cs
+D:\tryout\timepass\LMSSolution\LMSApp\obj\Debug\net10.0\LMSApp.csproj.CoreCompileInputs.cache
+D:\tryout\timepass\LMSSolution\LMSApp\bin\Debug\net10.0\LMSApp.exe
+D:\tryout\timepass\LMSSolution\LMSApp\bin\Debug\net10.0\LMSApp.deps.json
+D:\tryout\timepass\LMSSolution\LMSApp\bin\Debug\net10.0\LMSApp.runtimeconfig.json
+D:\tryout\timepass\LMSSolution\LMSApp\bin\Debug\net10.0\LMSApp.dll
+D:\tryout\timepass\LMSSolution\LMSApp\bin\Debug\net10.0\LMSApp.pdb
+D:\tryout\timepass\LMSSolution\LMSApp\obj\Debug\net10.0\LMSApp.dll
+D:\tryout\timepass\LMSSolution\LMSApp\obj\Debug\net10.0\refint\LMSApp.dll
+D:\tryout\timepass\LMSSolution\LMSApp\obj\Debug\net10.0\LMSApp.pdb
+D:\tryout\timepass\LMSSolution\LMSApp\obj\Debug\net10.0\LMSApp.genruntimeconfig.cache
+D:\tryout\timepass\LMSSolution\LMSApp\obj\Debug\net10.0\ref\LMSApp.dll
