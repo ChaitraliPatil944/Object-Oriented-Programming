@@ -1,0 +1,5 @@
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\EventDrivenApp\obj\Debug\net10.0\EventDrivenApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\EventDrivenApp\obj\Debug\net10.0\EventDrivenApp.AssemblyInfoInputs.cache
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\EventDrivenApp\obj\Debug\net10.0\EventDrivenApp.AssemblyInfo.cs
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\EventDrivenApp\obj\Debug\net10.0\EventDrivenApp.csproj.CoreCompileInputs.cache
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\EventDrivenApp\obj\Debug\net10.0\EventDrivenApp.sourcelink.json
