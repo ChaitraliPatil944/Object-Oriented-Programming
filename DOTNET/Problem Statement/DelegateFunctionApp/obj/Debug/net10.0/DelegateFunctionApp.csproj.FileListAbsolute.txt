@@ -1,0 +1,15 @@
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\Problem Statement\DelegateFunctionApp\obj\Debug\net10.0\DelegateFunctionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\Problem Statement\DelegateFunctionApp\obj\Debug\net10.0\DelegateFunctionApp.AssemblyInfoInputs.cache
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\Problem Statement\DelegateFunctionApp\obj\Debug\net10.0\DelegateFunctionApp.AssemblyInfo.cs
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\Problem Statement\DelegateFunctionApp\obj\Debug\net10.0\DelegateFunctionApp.csproj.CoreCompileInputs.cache
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\Problem Statement\DelegateFunctionApp\obj\Debug\net10.0\DelegateFunctionApp.sourcelink.json
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\Problem Statement\DelegateFunctionApp\bin\Debug\net10.0\DelegateFunctionApp.exe
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\Problem Statement\DelegateFunctionApp\bin\Debug\net10.0\DelegateFunctionApp.deps.json
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\Problem Statement\DelegateFunctionApp\bin\Debug\net10.0\DelegateFunctionApp.runtimeconfig.json
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\Problem Statement\DelegateFunctionApp\bin\Debug\net10.0\DelegateFunctionApp.dll
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\Problem Statement\DelegateFunctionApp\bin\Debug\net10.0\DelegateFunctionApp.pdb
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\Problem Statement\DelegateFunctionApp\obj\Debug\net10.0\DelegateFunctionApp.dll
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\Problem Statement\DelegateFunctionApp\obj\Debug\net10.0\refint\DelegateFunctionApp.dll
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\Problem Statement\DelegateFunctionApp\obj\Debug\net10.0\DelegateFunctionApp.pdb
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\Problem Statement\DelegateFunctionApp\obj\Debug\net10.0\DelegateFunctionApp.genruntimeconfig.cache
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\Problem Statement\DelegateFunctionApp\obj\Debug\net10.0\ref\DelegateFunctionApp.dll
