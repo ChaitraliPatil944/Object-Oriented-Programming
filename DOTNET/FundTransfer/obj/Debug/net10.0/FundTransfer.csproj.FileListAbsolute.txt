@@ -1,0 +1,15 @@
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransfer\obj\Debug\net10.0\FundTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransfer\obj\Debug\net10.0\FundTransfer.AssemblyInfoInputs.cache
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransfer\obj\Debug\net10.0\FundTransfer.AssemblyInfo.cs
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransfer\obj\Debug\net10.0\FundTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransfer\obj\Debug\net10.0\FundTransfer.sourcelink.json
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransfer\bin\Debug\net10.0\FundTransfer.exe
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransfer\bin\Debug\net10.0\FundTransfer.deps.json
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransfer\bin\Debug\net10.0\FundTransfer.runtimeconfig.json
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransfer\bin\Debug\net10.0\FundTransfer.dll
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransfer\bin\Debug\net10.0\FundTransfer.pdb
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransfer\obj\Debug\net10.0\FundTransfer.dll
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransfer\obj\Debug\net10.0\refint\FundTransfer.dll
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransfer\obj\Debug\net10.0\FundTransfer.pdb
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransfer\obj\Debug\net10.0\FundTransfer.genruntimeconfig.cache
+C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransfer\obj\Debug\net10.0\ref\FundTransfer.dll

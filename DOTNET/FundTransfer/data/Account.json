@@ -1,0 +1,39 @@
+
+  
+    [
+    {
+        "Name": "Chaitrali Patil",
+        "Email": "chaitralipatil944@gmail.com",
+        "AccountNumber": "ACC1001",
+        "Balance": 19855.75,
+        "CreatedOn": "2026-06-22T11:37:35.1455942+05:30"
+    },
+    {
+        "Name": "Aarav Sharma",
+        "Email": "aarav.sharma@gmail.com",
+        "AccountNumber": "ACC1002",
+        "Balance": 45230.50,
+        "CreatedOn": "2026-06-20T09:15:12.1234567+05:30"
+    },
+    {
+        "Name": "Priya Verma",
+        "Email": "priya.verma@gmail.com",
+        "AccountNumber": "ACC1003",
+        "Balance": 128900.00,
+        "CreatedOn": "2026-06-18T14:45:30.9876543+05:30"
+    },
+    {
+        "Name": "Rahul Patil",
+        "Email": "rahul.patil@gmail.com",
+        "AccountNumber": "ACC1004",
+        "Balance": 75600.25,
+        "CreatedOn": "2026-06-15T16:20:45.5678901+05:30"
+    },
+    {
+        "Name": "Sneha Kulkarni",
+        "Email": "sneha.kulkarni@gmail.com",
+        "AccountNumber": "ACC1005",
+        "Balance": 33210.80,
+        "CreatedOn": "2026-06-10T08:05:22.3456789+05:30"
+    }
+]

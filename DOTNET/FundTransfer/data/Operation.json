@@ -1,0 +1,36 @@
+[
+    {
+        "AccountNumber": "ACC1002",
+        "Status": "C",
+        "StatusMessage": "Salary Credit",
+        "CreatedAt": "2024-06-02T09:00:00Z",
+        "Amount": 45000,
+        "CurrentBalance": 125000.00
+    },
+    {
+        "AccountNumber": "ACC1003",
+        "Status": "D",
+        "StatusMessage": "Online Shopping",
+        "CreatedAt": "2024-06-03T14:25:10Z",
+        "Amount": 3200,
+        "CurrentBalance": 56800.75
+    },
+    {
+        "AccountNumber": "ACC1004",
+        "Status": "C",
+        "StatusMessage": "Interest Credit",
+        "CreatedAt": "2024-06-04T08:30:45Z",
+        "Amount": 1200,
+        "CurrentBalance": 78250.50
+    },
+    {
+        "AccountNumber": "ACC1005",
+        "Status": "D",
+        "StatusMessage": "Electricity Bill Payment",
+        "CreatedAt": "2024-06-05T18:10:20Z",
+        "Amount": 1850,
+        "CurrentBalance": 43150.30
+    }
+
+    
+]
