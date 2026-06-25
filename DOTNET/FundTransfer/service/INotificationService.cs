@@ -2,5 +2,5 @@ namespace TFLBank.service;
 
 public interface INotificationService 
 {
-    void send (string msg)
+    void send (string msg);
 }

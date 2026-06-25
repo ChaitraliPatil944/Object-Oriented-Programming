@@ -7,7 +7,7 @@ namespace FundTransfer.FileManager
     {
         public List<Account> GetAllAccounts()
         {
-            string fileName = @"A:\TAP\GitHub\DotNet\FundTransferManager\Data\accounts.json";
+            string fileName = @"C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransferManager\Data\accounts.json";
             string jsonString = File.ReadAllText(fileName);
             var options = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
             List<Account>? accounts = JsonSerializer.Deserialize<List<Account>>(jsonString, options);
@@ -16,7 +16,7 @@ namespace FundTransfer.FileManager
 
         public List<Operation> GetAllOperations()
         {
-            string fileName = @"A:\TAP\GitHub\DotNet\FundTransferManager\Data\operations.json";
+            string fileName = @"C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransferManager\Data\operations.json";
             string jsonString = File.ReadAllText(fileName);
             var options = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
             List<Operation>? operations = JsonSerializer.Deserialize<List<Operation>>(jsonString, options);
@@ -26,7 +26,7 @@ namespace FundTransfer.FileManager
         public bool SaveAllAccounts(List<Account> accounts)
         {
             bool status = false;
-            string fileName = @"A:\TAP\GitHub\DotNet\FundTransferManager\Data\accounts.json";
+            string fileName = @"C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransferManager\Data\accounts.json";
             var options = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
             string jsonString = JsonSerializer.Serialize(accounts, options);
             File.WriteAllText(fileName, jsonString);
@@ -37,7 +37,7 @@ namespace FundTransfer.FileManager
         public bool SaveOpeations(List<Operation> accounts)
         {
             bool status = false;
-            string fileName = @"A:\TAP\GitHub\DotNet\FundTransferManager\Data\operations.json";
+            string fileName = @"C:\Users\Chaitrali Patil\Desktop\Object-Oriented-Programming\DOTNET\FundTransferManager\Data\operations.json";
             var options = new JsonSerializerOptions { PropertyNameCaseInsensitive = true };
             string jsonString = JsonSerializer.Serialize(accounts, options);
             File.WriteAllText(fileName, jsonString);

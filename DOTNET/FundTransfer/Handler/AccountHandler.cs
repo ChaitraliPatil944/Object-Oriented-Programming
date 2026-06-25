@@ -1,7 +1,7 @@
 namespace TFLBank.Handler;
 using TFLBank.model; 
 
-public class AccountHandler : IAccountHandler{
+public class AccountHandler : IAccountListener{
     public void onUnderBalance (Account acct)
     {
         Console.WriteLine("ammount is less than minimun balance policy");
