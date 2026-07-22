@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chaitrali Patil\\Desktop\\Object-Oriented-Programming\\OOSolution\\OOSolution\\OOPTestApp\\OOPTestApp.csproj": {}
+    "C:\\Users\\Chaitrali Patil\\Desktop\\Object-Oriented-Programming\\OOSolution\\OOPTestApp\\OOPTestApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chaitrali Patil\\Desktop\\Object-Oriented-Programming\\OOSolution\\OOSolution\\OOPTestApp\\OOPTestApp.csproj": {
+    "C:\\Users\\Chaitrali Patil\\Desktop\\Object-Oriented-Programming\\OOSolution\\OOPTestApp\\OOPTestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chaitrali Patil\\Desktop\\Object-Oriented-Programming\\OOSolution\\OOSolution\\OOPTestApp\\OOPTestApp.csproj",
+        "projectUniqueName": "C:\\Users\\Chaitrali Patil\\Desktop\\Object-Oriented-Programming\\OOSolution\\OOPTestApp\\OOPTestApp.csproj",
         "projectName": "OOPTestApp",
-        "projectPath": "C:\\Users\\Chaitrali Patil\\Desktop\\Object-Oriented-Programming\\OOSolution\\OOSolution\\OOPTestApp\\OOPTestApp.csproj",
+        "projectPath": "C:\\Users\\Chaitrali Patil\\Desktop\\Object-Oriented-Programming\\OOSolution\\OOPTestApp\\OOPTestApp.csproj",
         "packagesPath": "C:\\Users\\Chaitrali Patil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chaitrali Patil\\Desktop\\Object-Oriented-Programming\\OOSolution\\OOSolution\\OOPTestApp\\obj\\",
+        "outputPath": "C:\\Users\\Chaitrali Patil\\Desktop\\Object-Oriented-Programming\\OOSolution\\OOPTestApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
