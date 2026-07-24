@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LMSApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84fbdf1fcbd9ac26659ac5f89bd108f549c014ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("LMSApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LMSApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

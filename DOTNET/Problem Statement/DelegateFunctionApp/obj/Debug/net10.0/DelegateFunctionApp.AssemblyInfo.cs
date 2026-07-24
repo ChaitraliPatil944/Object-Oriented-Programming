@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DelegateFunctionApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09351f9852d2ad4df2e0fe0bf1355c22c4cd2508")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84fbdf1fcbd9ac26659ac5f89bd108f549c014ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("DelegateFunctionApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DelegateFunctionApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
